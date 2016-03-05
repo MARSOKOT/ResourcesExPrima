@@ -151,7 +151,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Opacity = 0.5D;
-            this.Text = "Resourses map Ex Prima";
+            this.Text = "Resourсes map Ex Prima";
             this.TransparencyKey = System.Drawing.Color.Lime;
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
